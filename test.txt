@@ -1,0 +1,14 @@
+https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=course_description&cc=&courseCode=2Z870G -- Toolkit
+https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=course_description&courseCode=2Z981G&cc -- PME
+
+
+
+
+Upgrade Java skills to Java 8
+DB skills - Upgrade of knowledge related to improvements in tuning of queries and DB analysis
+XML parsing and related training
+Best practices in exception handling in MDM
+Administration of Websphere Application server
+IBM BPM - Datstewardship usage and related concepts
+IBM MDM - PME and related concepts
+MQ handling and configuration
